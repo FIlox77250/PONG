@@ -32,7 +32,7 @@
 
 ```bash
 # Cloner le projet
-git clone https://github.com/votre-username/pong.git
+git clone https://github.com/Filox77250/pong.git
 
 # Compiler
 javac Pong.java
